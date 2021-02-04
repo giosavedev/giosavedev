@@ -3,13 +3,15 @@
 ![Giovanni github stats](https://github-readme-stats.vercel.app/api?username=giosave&count_private=true&show_icons=true&theme=buefy)
 
 ### Connect with me:
-[<img align="left" alt="gio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="gio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter: GiovanniSanchez](https://img.shields.io/twitter/follow/GiovanniSanchez?style=social)](https://twitter.com/giovannisave98)
+[![GitHub Giosave](https://img.shields.io/github/followers/giosave?label=follow&style=social)](https://github.com/giosave)
+[![LinkedIn: Giovanni Sanchez](https://img.shields.io/badge/GiovanniSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giosave/)](https://www.linkedin.com/in/giosave/)
 </br>
 
 
 ### Languages and Tools:
-
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -32,5 +34,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[youtube]: https://www.youtube.com/channel/UC9fnSA1NKCog1O-5ZpuK1ow
-[linkedin]: https://www.linkedin.com/in/giosave/
