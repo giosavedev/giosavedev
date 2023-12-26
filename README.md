@@ -8,7 +8,7 @@
 [![LinkedIn: Giovanni Sanchez](https://img.shields.io/badge/GiovanniSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giosave/)](https://www.linkedin.com/in/giosave/)
 </br>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=3m3oq6yd4xyfnk40eooku906x&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3m3oq6yd4xyfnk40eooku906x&cover_image=false&theme=default&show_offline=false&background_color=404040&interchange=true&bar_color=b14e9c&bar_color_cover=true)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=3m3oq6yd4xyfnk40eooku906x&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3m3oq6yd4xyfnk40eooku906x&cover_image=false&theme=default&show_offline=false&background_color=404040&interchange=true&bar_color=b14e9c&bar_color_cover=true)]
 ### Languages and Tools:
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
